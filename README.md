@@ -20,3 +20,4 @@ datos** [Trabajo Práctico 1](https://github.com/qagustina/mentoria-churnpredict
 2. **Análisis Exploratorio y
 Curación de datos** [Trabajo Práctico 2](https://github.com/qagustina/mentoria-churnprediction/blob/master/Grupo2_Mentor%C3%ADaChurn_TP2.ipynb)
 3. **Aprendizaje Supervisado** [Trabajo Práctico 3](https://github.com/qagustina/mentoria-churnprediction/blob/master/Grupo2_Mentor%C3%ADaChurn_TP3_.ipynb)
+4. **Aprendizaje No Supervisado** [Trabajo Práctico 4](https://github.com/qagustina/mentoria-churnprediction/blob/master/Grupo2_Mentor%C3%ADaChurn_TP4.ipynb)
